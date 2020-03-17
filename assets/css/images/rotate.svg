@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="29.052" viewBox="0 0 29 29.052">
+    <defs>
+        <filter id="prefix__format-rotate-90" width="29" height="29.052" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g>
+        <path id="prefix__format-rotate-90-2" d="M4.232 3.7L.86 7.077l3.377 3.372 3.377-3.372L4.232 3.7m-1.9 3.377l1.9-1.9 1.9 1.9-1.9 1.9-1.9-1.9m8.154-3.257a4.657 4.657 0 00-3.309-1.374V.76L4.971 2.966l2.206 2.206V3.487A3.642 3.642 0 115.7 10.454l-.775.775a4.679 4.679 0 005.562-7.41z" data-name="format-rotate-90" transform="translate(8.14 5.24)" style="fill:#fff"/>
+    </g>
+</svg>

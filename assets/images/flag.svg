@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36.507" height="60.182" viewBox="0 0 36.507 60.182">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#2c786c}
+        </style>
+    </defs>
+    <g id="prefix__flag" transform="translate(-76.562)">
+        <g id="prefix__Group_576" data-name="Group 576" transform="translate(76.562)">
+            <g id="prefix__Group_575" data-name="Group 575">
+                <path id="prefix__Path_688" d="M110.54 6.1h-13.2V2.529a2.529 2.529 0 00-5.059 0V6.1h-13.19a2.529 2.529 0 000 5.059h.872v40.067a.717.717 0 001.237.464l11.077-12.932v20.706a.717.717 0 00.717.717h3.63a.717.717 0 00.717-.717V38.758L108.375 51.7a.717.717 0 00.544.254.73.73 0 00.247-.043.717.717 0 00.482-.68V11.163h.891a2.529 2.529 0 000-5.059zM93.711 2.529a1.1 1.1 0 012.2 0V6.1h-2.2V2.529zm0 56.236V37.119l1.095-1.3 1.094 1.288.006 21.658h-2.2zm14.49-9.493L95.35 34.25a.742.742 0 00-1.049-.04l-.04.04L81.41 49.272V11.163h26.79zm2.319-39.581H79.091a1.1 1.1 0 110-2.2h31.43a1.1 1.1 0 110 2.2z" class="prefix__cls-1" data-name="Path 688" transform="translate(-76.562)"/>
+            </g>
+        </g>
+        <g id="prefix__Group_578" data-name="Group 578" transform="translate(83.006 12.616)">
+            <g id="prefix__Group_577" data-name="Group 577">
+                <path id="prefix__Path_689" d="M141.116 81.6h-22.16a.717.717 0 00-.717.717v28.913a.721.721 0 001.243.489l10.557-11.151L140.6 111.7a.717.717 0 001.237-.495V82.314a.718.718 0 00-.721-.714zm-.711 27.831l-9.846-10.4a.717.717 0 00-1.015-.031l-.025.025-9.846 10.4V83H140.4z" class="prefix__cls-1" data-name="Path 689" transform="translate(-118.239 -81.597)"/>
+            </g>
+        </g>
+    </g>
+</svg>
